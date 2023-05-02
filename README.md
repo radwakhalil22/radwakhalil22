@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radwa Khalil</h1>
 <h3 align="center">A Clinical Pharmacist and a Software Engineer.</h3>
 <h4 align="center"> An Open source applications developer trainee at Information Technology Institute </h4>
+<p align="center"> Check my <a href="https://radwa-khalil.web.app/">Portfolio</a>! </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
